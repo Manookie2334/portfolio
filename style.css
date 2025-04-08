@@ -9,7 +9,9 @@ html {
 }
 
 #projects li{
- float: left;
+ display: inline-block;
  list style: none;
+ float: left;
+ width: 300px;
  border-right: 50px;
 }
