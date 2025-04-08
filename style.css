@@ -4,8 +4,8 @@ html {
 
 
 
-#nav {
- 
+#nav li{
+ float: left;
 }
 
 #projects li{
