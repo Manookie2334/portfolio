@@ -9,7 +9,7 @@ html {
 }
 
 #projects li{
- flaot: left;
+ float: left;
  list style: none;
  border-right: 50px;
 }
