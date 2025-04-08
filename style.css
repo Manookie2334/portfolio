@@ -1,4 +1,13 @@
-html 
-(
+html {
  color: red;
-)
+}
+
+
+
+#nav {
+ 
+}
+
+#projects li{
+ flaot: left;
+}
